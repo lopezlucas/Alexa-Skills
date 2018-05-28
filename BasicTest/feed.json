@@ -1,6 +1,6 @@
 [
   {
-    "uid": "IDaaS2-DZONE",
+    "uid": "IDaaS1-DZONE",
     "updateDate": "2018-05-27T00:00:00.0Z",
     "titleText": "Identity as a Service - Okta and ASP.Net Core",
     "mainText": "In this post, we show just how easy it is to get a functioning login system up an running on your ASP.NET Core app to ensure user authentication.",
