@@ -16,15 +16,15 @@
   {
     "uid": "eCOMM1-MEDIUM",
     "updateDate": "2018-05-21T00:00:00.0Z",
-    "titleText": "Updating Inventory in a Ecommerce Marketplace using Azure Functions",
-    "mainText": "Brief guide about how to integrate an inventory systems with a Marketplace. In Spanish.",
+    "titleText": "Updating Inventory in an E-commerce Marketplace using Azure Functions",
+    "mainText": "A brief guide about how-to integrate an inventory system with a Marketplace. In Spanish.",
     "redirectionUrl": "https://medium.com/@lopezlucas/integrado-inventario-a-ecommerce-marketplace-batch-en-azure-8884e0bd7442"
   },
   {
     "uid": "cloud1-MEDIUM",
     "updateDate": "2018-05-19T00:00:00.0Z",
-    "titleText": "Introdution to Azure Functions",
-    "mainText": "Brief how to guide about one of the Azure serverless capabilties. In Spanish.",
+    "titleText": "Introduction to Azure Functions",
+    "mainText": "A brief how-to guide about one of the Azure serverless capabilities. In Spanish.",
     "redirectionUrl": "https://medium.com/@lopezlucas/introduccion-a-azure-functions-f77a6b017847"
   },
   {
@@ -38,14 +38,14 @@
     "uid": "eCOMM3-MEDIUM",
     "updateDate": "2018-05-09T00:00:00.0Z",
     "titleText": "Retrieve SAP inventory using APIs",
-    "mainText": "Step by Step Guide to retrive inventory data from SAP. In Spanish",
+    "mainText": "Step by Step Guide to retrieve inventory data from SAP. In Spanish",
     "redirectionUrl": "https://medium.com/@lopezlucas/como-obtener-el-nivel-de-inventario-desde-sap-s-4hana-cloud-usando-apis-40ab76951493"
   },
   {
     "uid": "cloud2-MEDIUM",
     "updateDate": "2018-05-07T00:00:00.0Z",
     "titleText": "Introduction to Cloud",
-    "mainText": "Introduction to Infraestructure as a Service, Software as a Service and Platform as a Service. In Spanish.",
+    "mainText": "Introduction to Infrastructure as a Service, Software as a Service and Platform as a Service. In Spanish.",
     "redirectionUrl": "https://medium.com/@lopezlucas/introducci%C3%B3n-a-cloud-saas-iaas-paas-772c92c29bb1"
   }
 ]
